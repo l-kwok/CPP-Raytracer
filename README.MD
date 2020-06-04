@@ -23,3 +23,6 @@ Argument List for #
 ## Results
 
 ![Scene 1](results/scene1.bmp)
+![Scene 2](results/scene2.bmp)  
+![Scene 3](results/scene3.bmp)
+![Scene 4](results/scene4.bmp)  
