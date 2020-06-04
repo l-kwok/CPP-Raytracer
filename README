@@ -1,0 +1,18 @@
+Everything Completed.
+
+NOTE: JPG images are stored in {working-dir}/images
+
+Program has two display options:
+    1. Through OpenGl Window 
+    2. Through a saved .bmp image file in the directory
+
+To build: 
+make
+./rayT #
+
+Argument List for #
+1 - Scene 1
+2 - Scene 2
+3 - Scene 3
+4 - Scene 4
+5 - Renders All Scenes into .bmp files, displays the last scene in OpenGl
