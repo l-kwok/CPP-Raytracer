@@ -19,3 +19,7 @@ Argument List for #
 3 - Scene 3  
 4 - Scene 4  
 5 - Renders All Scenes into .bmp files, displays the last scene in OpenGl  
+
+## Results
+
+![Scene 1](results/scene1.bmp)
